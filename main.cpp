@@ -15,7 +15,7 @@ struct Patient {
     float dueAmount;
 };
 
-int main() {
+int main();{
     struct Patient p;
 
     printf("------ Hospital Management System ------\n");
